@@ -1,5 +1,5 @@
 ## Zookeeper: Learning [Python] from [HyperSkill.org]
-##### This is a learning project from hyperskill.org
+##### Learning [Python]
 
 
 [HyperSkill.org]:https://hyperskill.org/
